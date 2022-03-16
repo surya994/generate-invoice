@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vROMCvUTU7/NJCy63TFJax4QKppVlMatyX/8TLvQwUthKwNN1g/Y0SE2EHru+UZbVsr1kmGDlfDma9aJ3ehaQ==",
+  "dgSpecHash": "RHXUKicz/4uXsHew8bFBjPpl51lUQ449C77DaTDfVpsxKEa/iPb+F7+K5koClNyffozA/4lb9IdylswAnEPqRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\source\\repos\\TugasInvoice\\TugasInvoice\\TugasInvoice.csproj",
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\TugasInvoice\\generate-invoice\\TugasInvoice\\TugasInvoice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
